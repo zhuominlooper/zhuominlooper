@@ -3,7 +3,7 @@
 
 **zhuominlooper/zhuominlooper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=zhuominlooper&show_icons=true&theme=dark&count_private=true)
-
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zhuominlooper&theme=dark&layout=compact)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
