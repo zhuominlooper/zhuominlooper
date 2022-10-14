@@ -9,7 +9,10 @@
 * 🍒 [基于原生js实现一个验证码输入框](https://github.com/zhuominlooper/captcha-demo/tree/master/demo)
 * 🍏 [基于原生js实现promise并扩展方法](https://github.com/zhuominlooper/extend-promise)
 
-#### Organizations to join
+#### Organizations to join  
+* ####  [Octoveau](https://github.com/Octoveau)   
+    > 菜鸟教程
+    > 学的不仅是技术更是梦想
 
 
 
