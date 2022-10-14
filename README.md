@@ -10,9 +10,9 @@
 * 🍏 [基于原生js实现promise并扩展方法](https://github.com/zhuominlooper/extend-promise)
 
 #### Organizations to join  
-* ####  [Octoveau](https://github.com/Octoveau)   
-    > [基于vue2企业级开箱即用的模板](https://github.com/Octoveau/vue2-template-protal)
-    > [基于vue2单点登录平台](https://github.com/Octoveau/sso-admin-portal)
+* ####  [Octoveau](https://github.com/Octoveau)    
+    > [基于vue2企业级开箱即用的模板](https://github.com/Octoveau/vue2-template-protal)  
+    > [基于vue2单点登录平台](https://github.com/Octoveau/sso-admin-portal)  
 
 
 
