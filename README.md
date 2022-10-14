@@ -3,7 +3,14 @@
 
 #### Only the following items are currently accessible  
 * 🚀 [基于中国航班的可视化大屏](https://github.com/zhuominlooper/large-screen)
-* 🍇 
-* 🍊
+* 🍇 [基于vue实现的大文件分片，断点续传]([实现文件的BASE64和FROMDATA的格式上传，以及大文件的分片和断点续传功能](https://github.com/zhuominlooper/upload-file))
+* 🍊 [基于axios cenceltoken实习取消请求的案列](https://github.com/zhuominlooper/axios-cancelToken)
+* 🥝 [基于sass实现响应式门户](https://github.com/zhuominlooper/reactive-portal)
+* 🍒 [基于原生js实现一个验证码输入框](https://github.com/zhuominlooper/captcha-demo/tree/master/demo)
+* 🍏 [基于原生js实现promise并扩展方法](https://github.com/zhuominlooper/extend-promise)
+
+#### Organizations to join
+
+
 
 
