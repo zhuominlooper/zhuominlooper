@@ -2,6 +2,7 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=zhuominlooper&show_icons=true&&theme=dracula&count_private=true&layout=compact&hide=stars)![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zhuominlooper&theme=dracula&layout=compact)   
 
 #### Only the following items are currently accessible  
+* 🚀 [实现一个vue2源码的核心逻辑](https://github.com/zhuominlooper/mini-vue2)
 * 🚀 [基于vue实现航班的可视化大屏](https://github.com/zhuominlooper/large-screen)
 * 🍇 [基于vue实现的大文件分片，断点续传](https://github.com/zhuominlooper/upload-file)
 * 🥝 [基于sass实现响应式门户](https://github.com/zhuominlooper/reactive-portal)
